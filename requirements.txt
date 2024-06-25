@@ -1,0 +1,5 @@
+argparse
+opencv-python
+numpy
+supervision
+ultralytics
