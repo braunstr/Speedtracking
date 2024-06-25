@@ -40,7 +40,7 @@ The system performs the following tasks:
 
 ## Usage
 
- 1. Prepare your video file for analysis. Supported formats include MP4, AVI, etc.
+ 1. Prepare your video file for analysis. Supported format: MP4
     
  2. Run the main script:
     
